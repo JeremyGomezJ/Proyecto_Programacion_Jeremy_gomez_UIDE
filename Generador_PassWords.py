@@ -1,5 +1,6 @@
 
 #Algoritmo de generaccion de contraseñas seguras
+import tkinter as tk
 import random
 def generador_contrasena_segura():
 
