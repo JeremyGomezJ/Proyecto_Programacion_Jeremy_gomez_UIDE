@@ -20,6 +20,16 @@ Desarrollar una aplicación de escritorio que genere contraseñas seguras y eval
 - Clasificación del nivel de seguridad: Débil / Media / Alta.
 - Copiar contraseña al portapapeles.
 - Limpiar campos y reiniciar la interfaz.
+- El programa cuenta con una interfaz gráfica desarrollada con Tkinter, que facilita la interacción del usuario mediante botones y campos de texto.
+Las acciones disponibles incluyen:
+
+Generar contraseña
+
+Validar nivel de seguridad
+
+Limpiar los campos de entrada y salida
+
+Esto mejora la experiencia de usuario y hace que el programa sea intuitivo y fácil de usar.
 
 ## Requisitos
 - Python 3.11
