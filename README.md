@@ -1,4 +1,3 @@
-Hola presento mi proyecto de Generacion de constraseñas.
 # Generador de Contraseñas Seguras (Tkinter + Python)
 
 ## Creador
