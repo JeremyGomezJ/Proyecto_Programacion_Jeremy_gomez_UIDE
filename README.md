@@ -1,4 +1,34 @@
 Hola presento mi proyecto de Generacion de constraseñas.
+# Generador de Contraseñas Seguras (Tkinter + Python)
+
+## Creador
+- Jeremy Gomez Junco
+  
+## Fecha
+21/12/2025
+
+## Objetivo del programa
+Desarrollar una aplicación de escritorio que genere contraseñas seguras y evalúe su nivel de robustez, integrando fundamentos de programación, validación, funciones y una interfaz gráfica.
+
+## Funcionalidades principales
+- Generación de contraseñas con longitud entre 8 y 16 caracteres.
+- Uso de aleatoriedad segura (`secrets`) para la creación de contraseñas.
+- Validación de seguridad según criterios:
+  - Mayúsculas
+  - Minúsculas
+  - Números
+  - Caracteres especiales
+- Clasificación del nivel de seguridad: Débil / Media / Alta.
+- Copiar contraseña al portapapeles.
+- Limpiar campos y reiniciar la interfaz.
+
+## Requisitos
+- Python 3.11
+- Tkinter (normalmente ya viene incluido con Python)
+
+## Ejecución
+1. Clona el repositorio Y disfruta
+
 A continuacion los diagramas de flujo del programa:
 IMG 1:
 
